@@ -13,3 +13,8 @@ Simple Python CLI app to analyze numbers.
 
 ## How to run:
 python data-analyzer-cli.py
+
+## Example usage:
+1. Run the script
+2. Choose option from menu
+3. Add numbers and analyze them
